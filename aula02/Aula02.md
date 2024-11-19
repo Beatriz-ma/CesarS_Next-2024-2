@@ -142,6 +142,5 @@ Dada a lista original de nomes do exercício 1, crie uma nova lista que contenha
 
     ![Tabela do Imposto de Renda](https://resources.beecrowd.com/gallery/images/problems/UOJ_1051_pt.png)
 
-- [1060 - Números Positivos](https://judge.beecrowd.com/pt/problems/view/1060)
 - [1045 - Tipos de Triângulos](https://judge.beecrowd.com/pt/problems/view/1045)
 - [1071 - Soma de Impares Consecutivos I](https://judge.beecrowd.com/pt/problems/view/1071)
