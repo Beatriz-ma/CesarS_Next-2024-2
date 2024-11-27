@@ -10,7 +10,7 @@
 
 ------------------
 
-# Tratameno de Exceções
+# Tratamento de Exceções
 
 
 O tratamento de exceções é uma técnica fundamental para tornar os programas mais **robustos** e capazes de lidar com erros de maneira controlada. Em Python, as exceções são eventos que **interrompem o fluxo normal do programa**, mas que podem ser tratadas para evitar falhas inesperadas.
