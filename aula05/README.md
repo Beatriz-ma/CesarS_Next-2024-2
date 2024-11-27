@@ -193,7 +193,7 @@ tartaruga,aquático
 
 ## 💸 PyFinanceiro
 
-* Neste desafio, você tem a tarefa de criar um script Python para analisar os registros financeiros de sua empresa. Você fornecerá um conjunto de dados financeiros chamado [dados_financeiros.txt](https://drive.google.com/file/d/1g4A0DkMdGxwv9JSGO32DYqvPby45pIHG/view?usp=sharing). O conjunto de dados é composto por duas colunas: `Data` e `Lucros/Perdas`, separados por virgula. (Felizmente, sua empresa tem padrões bastante flexíveis para a contabilidade, então os registros são simples.)
+* Neste desafio, você tem a tarefa de criar um script Python para analisar os registros financeiros de sua empresa. Você fornecerá um conjunto de dados financeiros chamado [dados_financeiros.txt](/aula05/exercicios/dados_financeiros.txt). O conjunto de dados é composto por duas colunas: `Data` e `Lucros/Perdas`, separados por virgula. (Felizmente, sua empresa tem padrões bastante flexíveis para a contabilidade, então os registros são simples.)
 
 * Sua tarefa é criar um script Python que analise os registros para calcular cada um das seguintes informações:
 
@@ -228,7 +228,7 @@ Maior redução nos lucros: Sep-2013 ($ -2196167)
 
 * Neste desafio, você tem a tarefa de ajudar uma pequena cidade rural a modernizar seu processo de contagem de votos. (Até agora, o tio Cleiton vinha contando-os um por um com confiança, mas, infelizmente, sua concentração não é o que costumava ser.)
 
-* Você receberá um conjunto de dados de enquete chamado [dados_eleção.txt](https://drive.google.com/file/d/13tarkZMlfvMcHnS8K49pdF-GMYOwgggg/view?usp=sharing). O conjunto de dados é composto por três colunas: `ID do eleitor`,` Município` e `Candidato`. Sua tarefa é criar um script Python que analise os votos e calcule cada uma das seguintes informações:
+* Você receberá um conjunto de dados de enquete chamado [dados_eleção.txt](/aula05/exercicios/dados_elecao.txt). O conjunto de dados é composto por três colunas: `ID do eleitor`,` Município` e `Candidato`. Sua tarefa é criar um script Python que analise os votos e calcule cada uma das seguintes informações:
 
   * O número total de votos expressos
 
