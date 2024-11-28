@@ -2,6 +2,8 @@
 
 # NExT 2024.2 **Lógica de Programação** com Python
 
+## 📝 Material de Aula
+
 Material das aulas de Lógica de Programação com Python para a turma 2024.2 do NExT, da CESAR School.
 
 | Aula | Material |
@@ -13,6 +15,13 @@ Material das aulas de Lógica de Programação com Python para a turma 2024.2 do
 | Aula 05 - Arquivos | [Conteúdo](/aula05/README.md)<br>[Práticas](/aula05/praticas/)<br>[Exercícios Resolvidos](/aula05/exercicios/)|
 | Aula 06 - Estruturas de Dados | [Conteúdo](/aula06/README.md)<br>[Práticas](/aula06/praticas/)<br>[Exercícios Resolvidos](/aula06/exercicios/)|
 | Aula 07 - Tratamento de Exceções | [Conteúdo](/aula07/README.md)<br>[Práticas](/aula07/praticas/)<br>[Exercícios Resolvidos](/aula07/exercicios/)|
-| Aula 08 - Módulos | Em breve... |
+| Aula 08 - Módulos | [Conteúdo](/aula08/README.md)|
 | Aula 09 - Criando Seus Módulos e Pacotes | Em breve... |
-| Aula 10 - Maratona de Programação | Em breve... |
+| Aula 10 - Maratona de Programação | [Instruções](/aula10/README.md) |
+
+## 👨‍👩‍👧‍👦 Equipe
+* [Erick Simões](https://www.linkedin.com/in/ericksimoes/)
+* [Iago Lima](https://www.linkedin.com/in/iagooliveiralima/)
+* [Diógenes Diniz](https://www.linkedin.com/in/diogenesdiniz/)
+* [Igor Lucena](https://www.linkedin.com/in/igorlucena/)
+* [Marianna Pinho](https://www.linkedin.com/in/marianna-pinho-b5770a133/)
