@@ -16,7 +16,7 @@ Material das aulas de Lógica de Programação com Python para a turma 2024.2 do
 | Aula 06 - Estruturas de Dados | [Conteúdo](/aula06/README.md)<br>[Práticas](/aula06/praticas/)<br>[Exercícios Resolvidos](/aula06/exercicios/)|
 | Aula 07 - Tratamento de Exceções | [Conteúdo](/aula07/README.md)<br>[Práticas](/aula07/praticas/)<br>[Exercícios Resolvidos](/aula07/exercicios/)|
 | Aula 08 - Módulos | [Conteúdo](/aula08/README.md)<br>[Práticas](/aula08/praticas/)<br>[Exercícios Resolvidos](/aula08/exercicios/)|
-| Aula 09 - Criando Seus Módulos e Pacotes | Em breve... |
+| Aula 09 - Criando Seus Módulos e Pacotes | [Conteúdo](/aula09/README.md)|
 | Aula 10 - Maratona de Programação | [Instruções](/aula10/README.md) |
 
 ## 👨‍👩‍👧‍👦 Equipe
