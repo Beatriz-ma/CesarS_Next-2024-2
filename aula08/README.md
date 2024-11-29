@@ -86,7 +86,7 @@ print(math.floor(1.9))    # Arredondamento para baixo
 
 ## 🔀 `random`
 
-O módulo `random` permite trabalhar com geração de números pseudp-aleatórios e escolha de elementos de coleções.
+O módulo `random` permite trabalhar com geração de números pseudo-aleatórios e escolha de elementos de coleções.
 
 Mais detalhes [aqui](https://docs.python.org/3/library/random.html#module-random).
 
