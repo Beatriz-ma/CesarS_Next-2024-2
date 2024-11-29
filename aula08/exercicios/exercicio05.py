@@ -6,7 +6,6 @@ def tempo_restante_fim_modulo():
     fim_modulo = datetime(2024, 12, 2, 22, 0, 0)
     restante = fim_modulo - agora
 
-    print(f"Data e hora atuais: {agora.strftime('%d/%m/%Y %H:%M:%S')}")
-    print(f"Tempo restante para o fim do módulo: {restante.days} dias e {restante.seconds // 3600} horas.")
+    print(f"Tempo restante para o fim do módulo: {restante.days} dias e {restante.seconds // 3600} horas")
 
 tempo_restante_fim_modulo()

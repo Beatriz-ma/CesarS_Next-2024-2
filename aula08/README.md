@@ -253,7 +253,7 @@ with open("saida.csv", "w", newline="") as arquivo:
 4. Use o módulo `random` para criar um jogo onde o programa escolhe um número aleatório entre 0 e 10 e o usuário deve tentar adivinhar o valor. Quando a pessoa acertar, deve ser apresentado uma pontuação (se acertar de primeira, 10 pontos, na segunda tentativa, 9 pontos...)
 
 5. Use o módulo `datetime` para implementar uma função que retorne quanto tempo falta para o final deste módulo:
-    - Exiba a data e a hora formatadas como "dd/mm/aaaa hh:mm:ss";
+    - Exiba o tempo seguindo o formato: `Tempo restante para o fim do módulo: XX dias e YY horas`;
 
 # 🤿 Exercícios de Aprofundamento
 
