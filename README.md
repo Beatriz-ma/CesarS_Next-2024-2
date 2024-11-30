@@ -16,7 +16,7 @@ Material das aulas de Lógica de Programação com Python para a turma 2024.2 do
 | Aula 06 - Estruturas de Dados | [Conteúdo](/aula06/README.md)<br>[Práticas](/aula06/praticas/)<br>[Exercícios Resolvidos](/aula06/exercicios/)|
 | Aula 07 - Tratamento de Exceções | [Conteúdo](/aula07/README.md)<br>[Práticas](/aula07/praticas/)<br>[Exercícios Resolvidos](/aula07/exercicios/)|
 | Aula 08 - Módulos | [Conteúdo](/aula08/README.md)<br>[Práticas](/aula08/praticas/)<br>[Exercícios Resolvidos](/aula08/exercicios/)|
-| Aula 09 - Criando Seus Módulos e Pacotes | [Conteúdo](/aula09/README.md)|
+| Aula 09 - Criando Seus Módulos e Pacotes | [Conteúdo](/aula09/README.md)<br>[Práticas](/aula09/praticas/)|
 | Aula 10 - Maratona de Programação | [Instruções](/aula10/README.md) |
 
 ## 👨‍👩‍👧‍👦 Equipe
@@ -25,3 +25,11 @@ Material das aulas de Lógica de Programação com Python para a turma 2024.2 do
 * [Diógenes Diniz](https://www.linkedin.com/in/diogenesdiniz/)
 * [Igor Lucena](https://www.linkedin.com/in/igorlucena/)
 * [Marianna Pinho](https://www.linkedin.com/in/marianna-pinho-b5770a133/)
+
+## 📚 Livros
+
+Para quem gosta de estudar com livros, temos essas sugestões:
+
+* Curso Intensivo de Python: uma Introdução Prática e Baseada em Projetos à Programação (3ª Edição | Eric Matthes)
+* Pense em Python: Pense Como um Cientista da Computação (3ª Edição | Allen B. Downey)
+* Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes (4ª Edição | Nilo Ney Coutinho Menezes)
