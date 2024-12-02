@@ -19,6 +19,9 @@ Material das aulas de Lógica de Programação com Python para a turma 2024.2 do
 | Aula 09 - Criando Seus Módulos e Pacotes | [Conteúdo](/aula09/README.md)<br>[Práticas](/aula09/praticas/)|
 | Aula 10 - Maratona de Programação | [Instruções](/aula10/README.md) |
 
+# 👍 Feedback
+[Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSels7ZV4sCx98BSeBx2IJD2rdHLTuPo_5tL3qfdX1Y-BazD7A/viewform) para compartilhar o que você achou deste módulo neste formulário anônimo.
+
 ## 👨‍👩‍👧‍👦 Equipe
 * [Erick Simões](https://www.linkedin.com/in/ericksimoes/)
 * [Iago Lima](https://www.linkedin.com/in/iagooliveiralima/)

@@ -83,3 +83,6 @@ Aqui estão algumas dicas para ajudar sua equipe a alcançar um bom desempenho:
 ------------------
 
 Boa sorte e divirtam-se! 🚀
+
+# 👍 Feedback
+[Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSels7ZV4sCx98BSeBx2IJD2rdHLTuPo_5tL3qfdX1Y-BazD7A/viewform) para compartilhar o que você achou deste módulo neste formulário anônimo.
