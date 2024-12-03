@@ -86,3 +86,20 @@ Boa sorte e divirtam-se! 🚀
 
 # 👍 Feedback
 [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSels7ZV4sCx98BSeBx2IJD2rdHLTuPo_5tL3qfdX1Y-BazD7A/viewform) para compartilhar o que você achou deste módulo neste formulário anônimo.
+
+# Lista de questões
+
+1. https://judge.beecrowd.com/pt/problems/view/1024
+2. https://judge.beecrowd.com/pt/problems/view/1047
+3. https://judge.beecrowd.com/pt/problems/view/1073
+4. https://judge.beecrowd.com/pt/problems/view/1101
+5. https://judge.beecrowd.com/pt/problems/view/1113
+6. https://judge.beecrowd.com/pt/problems/view/1133
+7. https://judge.beecrowd.com/pt/problems/view/1143
+8. https://judge.beecrowd.com/pt/problems/view/1159
+9. https://judge.beecrowd.com/pt/problems/view/1165
+10. https://judge.beecrowd.com/pt/problems/view/1180
+11. https://judge.beecrowd.com/pt/problems/view/1215
+12. https://judge.beecrowd.com/pt/problems/view/1244
+13. https://judge.beecrowd.com/pt/problems/view/1272
+14. https://judge.beecrowd.com/pt/problems/view/1551
